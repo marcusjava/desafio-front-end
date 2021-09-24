@@ -1,0 +1,30 @@
+
+
+Pokemon App
+
+
+Components
+
+- Header OK
+- Search OK 
+- Pokemon List OK
+- Pokemon OK
+- Dropdown OK
+
+Pages
+
+- Home OK
+- Pokedex OK
+- Detail OK
+- Species List
+
+
+Pokedex
+
+- Incluir os pokemons a lista de pokedex OK
+- Mostrar os detalhes do pokemon tanto na pokedex quanto na lista
+- 
+
+
+Ao clicar em um item da lista de habilidades mostrar o short_effect da mesma
+
